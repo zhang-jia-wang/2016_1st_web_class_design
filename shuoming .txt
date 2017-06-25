@@ -1,0 +1,35 @@
+网页说明文档：
+1、按照要求：整个网页首页包括logo+导航栏+banner+搜索框
+2、在前期的素材搜集的过程是比较麻烦的，需要看很多网站通过各个网站
+    找到一种符合自己的风格的模型。
+3、开始进行盒子模型的构建和框架的构建
+4、难点和遇到的问题
+	.n_content a{
+	color:#FFF;
+	width:65px;
+	line-height:40px;
+	font-weight:bold;
+	text-align:center;}
+.n_content a:hover{
+	color:#f9f603;
+	text-decoration:none;}
+#col_wei{
+	color:#f9f603;
+	width:45px;}
+#long{
+	width:105px;}
+.nav_search{
+	width:190px;
+	float:left;
+	padding:10px 0;
+	position:relative;
+	left:50px}
+.search{
+	width:140px;
+	height:19px;
+	float:left;
+	border:1px solid #FFF;
+	background-color:#f8f5ee;}
+这段代码经过了多次修改，发现自己在边框的知识不太全面，会遗漏下一些属性
+
+总结：自己独自完成一个网站的基本建设，对css的认识进一步加强，对网页前端开发有了一个新的认识。
